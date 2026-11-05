@@ -40,6 +40,12 @@ The data model consists of six tables:
 | Calendar  | Dimension Table | Contains date attributes for time-based analysis.             |
 | Inventory | Fact Table      | Tracks inventory levels and stock-related information.        |
 
+### 📊 Entity Relationship Diagram
+
+<a href="EER.png">
+  <img src="EER.png" alt="Retail Analytics ER Diagram" width="900">
+</a>
+
 ### Data Modeling Concepts
 
 - Star Schema architecture
