@@ -2,7 +2,7 @@
 
 A retail analytics project that combines MySQL data preparation and analysis with a five-page Power BI dashboard. It explores sales performance, stores, products, inventory, and customer behavior.
 
-![Retail analytics dashboard preview](retail_analytics_dashboard_all_pages.png)
+![Retail analytics dashboard preview](retail_analytics_readme_gallery.png)
 
 ## Dashboard
 
